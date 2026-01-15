@@ -1,16 +1,17 @@
-## Hi there 👋
+## 👋 Hi, I’m Adika Muhammad
 
-<!--
-**adikamuh/adikamuh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Flutter Developer** with 4+ years of experience building scalable, user-friendly mobile applications for Android, iOS, and Web.
 
-Here are some ideas to get you started:
+I specialize in **Flutter & Dart**, focusing on clean architecture, performance, and great UX. I’ve worked on a wide range of products—from **ERP systems** and **internal finance apps** to **public service** and **lifestyle applications** used by thousands of users.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+- **Flutter, Dart**
+- State Management: Bloc, GetX, Provider
+- REST API integration (Dio)
+- Local storage (Hive, ObjectStorage, Isar)
+- Unit & Integration Testing
+- Web: ReactJS, HTML, CSS, JavaScript
+- Git & collaborative workflows
+
+📫 Reach me at **adikamuh.work@gmail.com**  
+🔗 [LinkedIn](https://www.linkedin.com/in/adikamuh/)

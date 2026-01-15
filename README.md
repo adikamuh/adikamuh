@@ -14,6 +14,5 @@ I specialize in **Flutter & Dart**, focusing on clean architecture, performance,
 - Git & collaborative workflows
 
 📫 Reach me at **adikamuh.work@gmail.com**  
-🔗 [LinkedIn](https://www.linkedin.com/in/adikamuh/)
-
+🔗 [LinkedIn](https://www.linkedin.com/in/adikamuh/)  
 🔗 [Portofolio](https://drive.google.com/file/d/1I3_DoboHrYqN8O20fWTP-lpSou_4qWHD/view?usp=sharing)
